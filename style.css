@@ -1,0 +1,38 @@
+body{
+  margin:0;
+  padding:0px 50px;
+  background-color: #ADD8E6;
+}
+
+
+.logoarea{
+
+  width:100%;
+  float:center;
+  text-align: center;
+  background-color:#488AC7;
+}
+
+.logoarea h1{
+  padding-left:30px;
+   color: #000080;
+}
+
+.content_area{
+  height:500px;
+  width:100%;
+  overflow:hidden;
+}
+
+.content_area h2{
+
+  text-align: center;
+  color: #000080;
+}
+ button{
+   height: 30px;
+   width: 100px;
+   border-radius: 10px;
+   background-color: blue;
+   color:white;
+ }

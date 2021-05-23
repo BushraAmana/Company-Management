@@ -1,0 +1,104 @@
+body{
+  margin:0;
+  padding:0px 50px;
+  background-color: #ADD8E6;
+}
+a{
+  text-decoration:none;
+}
+.header_area{
+  width:100%;
+
+
+}
+.logoarea{
+  width:35%;
+  float:left;
+  background-color:#25cee0;
+}
+.logoarea h1{
+  padding-left:30px;
+}
+.menu_area{
+  width:65%;
+  float:left;
+  background-color:#25cee0;
+}
+.menu_area ul{
+  list-style:none;
+  text-align:right;
+}
+.menu_area ul li{
+  display:inline-block;
+  padding:15px;
+  color:white;
+}
+.menu_area ul li a{
+
+  color:white;
+}
+.content_area{
+  height:100%;
+  width:100%;
+  overflow:hidden;
+}
+.content_left{
+  width:20%;
+  height:800px;
+  float:left;
+}
+
+.content_right{
+  width:80%;
+  height:800px;
+  color: blue;
+  float:left;
+  background-color: #58CCFC;
+}
+
+
+.content_left ul{
+  list-style:none;
+}
+.content_left ul li{
+  padding:10px 0px;
+
+}
+.content_left ul li a{
+  color:white;
+  padding:10px 0px;
+}
+.content_left ul li a:hover{
+  background-color:black;
+}
+.footer_area{
+  background-color:#25cee0;
+}
+.content_left{
+  background-color:#1D92CA;
+  color:white;
+}
+.content_left ul{
+  list-style:none;
+}
+.content_left ul li{
+  padding:10px 0px;
+
+}
+.content_left ul li a{
+  color:white;
+  padding:10px 0px;
+}
+.content_left ul li a:hover{
+  background-color:black;
+}
+.footer_area{
+  background-color:#25cee0;
+}
+button{
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: blue;
+  color:white;
+}
